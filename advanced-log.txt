@@ -1,0 +1,20 @@
+$ tree
+.
+├── README.md
+├── advanced-log.txt
+├── c-programs
+├── command-line
+│   ├── command-line-easy
+│   │   └── test.txt
+│   ├── easy-log.txt
+│   ├── hello-copy-text
+│   ├── hello.txt
+│   └── test.txt
+├── files.txt
+├── hello-copy.txt
+├── intermediate-log.txt
+├── list.sh
+├── secret.txt
+└── shell-scripts
+
+5 directories, 12 files
