@@ -1,0 +1,10 @@
+$ pwd
+/workspaces/Linux-c-lab/command-line
+$ ls
+command-line-easy
+easy-log.txt
+hello-copy-text
+hello.txt:
+test.txt
+$ cd ~
+$ cd ~
