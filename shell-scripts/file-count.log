@@ -1,0 +1,12 @@
+$ ./file-count.sh .
+Directory: .
+Wed Sep  3 03:28:34 UTC 2025
+TOTAL files: 10
+.txt: 0
+.sh: 8
+.md: 0
+.py: 0
+.jpg: 0
+.png: 0
+.pdf: 0
+----------
