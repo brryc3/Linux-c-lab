@@ -1,0 +1,4 @@
+$ find . -type f -name '*.txt' | wc -1
+$ find . -type f -name '*.txt' | wc -1
+$ find . -type f -name '*.txt' | wc -l
+8
